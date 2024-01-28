@@ -1,0 +1,7 @@
+<Module>
+  <ModulePrefs title="Totally IXL" />
+  <Content type="html">
+    <![CDATA[ <iframe src="https://rawcdn.githack.com/coleward50/totally-ixl/052525e877289c2efe5ad1632eceeabeedb595f9/iframe/funnyshooter2.html" height="100%" width="100%" frameborder="0">Your browser doesnot support iframes<a href="myPageURL.htm"> click here to view the page directly. </a></iframe>
+ ]]>
+  </Content>
+</Module>
